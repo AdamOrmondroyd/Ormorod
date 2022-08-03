@@ -1,4 +1,4 @@
-I'm Adam Ormondroyd, a PhD student @CavendishAstrophysics, based @theKavliInstituteforCosmology.
+I'm Adam Ormondroyd, PhD student @CavendishAstrophysics, based @theKavliInstituteforCosmology.
 
 I am ```main```ly working on using nested sampling to constrain cosmology, with particular focus on the equation of state parameters of the dark sector.
 
